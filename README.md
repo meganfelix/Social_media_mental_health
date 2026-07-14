@@ -1,5 +1,7 @@
 # Social Media Mental Health
 
+[Link to Full Notebook](https://github.com/meganfelix/Social_media_mental_health/blob/main/Social_media_mental_health.ipynb)
+
 ## Dataset Background
 Dataset: Social Media Mental Health Indicators
 Source: Kaggle
