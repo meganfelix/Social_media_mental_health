@@ -1,1 +1,1 @@
-# Social_media_mental_health
+# Social Media Mental Health
