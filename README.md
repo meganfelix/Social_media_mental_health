@@ -4,7 +4,9 @@
 
 ## Dataset Background
 Dataset: Social Media Mental Health Indicators
+
 Source: Kaggle
+
 Access: Path created to root dataset to notebook
 (Link below to Kaggle dataset as well)
   
